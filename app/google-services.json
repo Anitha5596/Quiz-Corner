@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384940562081",
+    "project_id": "quiz-corner-515fc",
+    "storage_bucket": "quiz-corner-515fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384940562081:android:142af917f960600a2302e0",
+        "android_client_info": {
+          "package_name": "com.unh.quizcorner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0p6t3C55y0OnCmYlYKrg-otlllmjmM-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
